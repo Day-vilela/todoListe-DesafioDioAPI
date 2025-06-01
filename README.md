@@ -32,14 +32,14 @@ todoListe-DesafioDioAPI/ ├── src/ │   ├── main/ │   │   ├─
    git clone https://github.com/Day-vilela/todoListe-DesafioDioAPI.git
 
 2. Navegue até o diretório do projeto:
-
+```bash
 cd todoListe-DesafioDioAPI
-
+```
 
 3. Compile e execute o projeto utilizando sua IDE favorita ou via terminal com Maven:
-
+```bash
 mvn spring-boot:run
-
+```
 
 4. Acesse a API através do endereço:
 
