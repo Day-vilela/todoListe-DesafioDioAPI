@@ -27,10 +27,9 @@ todoListe-DesafioDioAPI/ ├── src/ │   ├── main/ │   │   ├─
 ## 📦 Como Executar
 
 1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/Day-vilela/todoListe-DesafioDioAPI.git
-
+```bash
+git clone https://github.com/Day-vilela/todoListe-DesafioDioAPI.git
+```
 2. Navegue até o diretório do projeto:
 ```bash
 cd todoListe-DesafioDioAPI
